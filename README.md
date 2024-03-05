@@ -15,7 +15,7 @@ Ensure you have Python installed on your system.
 
 1. Clone or download this repository.
 2. Navigate to the directory containing the script.
-3. Run the script using the command: `python todo_list.py`.
+3. Run the script using the command: `python ToDoList.py`.
 
 ## Usage
 
